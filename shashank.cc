@@ -23,10 +23,5 @@ int main()
   e2 = fabs(y0-y1);
   e3 = fabs(z0-z1);
   step++;
-  x0 = x1;
-  y0 = y1;
-  z0 = z1;
- }while(e1>e && e2>e && e3>e);
- cout<< endl<<"Solution: x = "<< x1<<", y = "<< y1<<" and z = "<< z1;
- return 0;
-}
+  Fgshsbs
+Hsbsj
